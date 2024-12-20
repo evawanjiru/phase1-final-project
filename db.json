@@ -1,0 +1,41 @@
+{
+    "products":[
+      {
+        "id":1,
+        "name":"Harri Modal Plunge Long-Sleeve Top in Black",
+        "description":"A core silhouette for your everyday rotation, the Harri top is crafted from our signature buttery soft jersey fabric made with TENCEL™ Modal fibres, derived from controlled or certified wood sources. It’s cut to a figure-hugging silhouette framed with a V-neck and back and fitted long sleeves. The ruched detailing at the waist means it sits seamlessly over mid-rise styles.",
+        "price":42.00,
+        "image_url":"https://us.ohpolly.com/cdn/shop/files/11710-Black_Harri_1_30cad1f4-8c0b-4c50-9046-27723e97be8f.jpg?v=1726757706&width=1080"
+      },
+      {
+        "id":2,
+        "name":"Clarice Layered Bubble Hem Corset Mini Dress in Ivory",
+        "description":"Elevated glamour with a festive twist. Crafted from lustrous non-stretch taffeta, the Clarice mini dress features a drop-waist bodice with a built-in corset for enhanced shaping and a stunning double-layered bubble skirt. In keeping with our love for elevated details, it’s complete with ruched gathering for a bust-flattering fit, a functional lace-up back, adjustable straps and coordinating jersey shorts for the perfect amount of coverage.",
+        "price":122.00,
+        "image_url":"https://assets.ohpolly.com/image/upload/c_scale,w_1080/f_auto,q_auto/12015-Ivory_Clarice_9"
+      },
+      {
+        "id":3,
+        "name":"Audrey Embellished Halterneck Gown in Deep Purple",
+        "description":"Silhouettes that make them say wow. Crafted from premium, semi-sheer 40D stretch mesh, the Audrey gown is a statement design, cut to a stunning fishtail silhouette with a puddle hem. Framed with a plunge neck, low scooped back and adjustable camisole straps for your perfect amount of support, it’s elevated with high-shine square HOTFIX embellishments, custom-designed in a grid pattern for maximum sparkle.",
+        "price":195.00,
+        "image_url":"https://assets.ohpolly.com/image/upload/c_scale,w_1080/f_auto,q_auto/v1733850215/11851-DeepPurple_Audrey_2"
+      },
+      {
+        "id":4,
+        "name":"Ronja Embellished Plunge Mini Dress in Deep Purple",
+        "description":"Party-ready perfection. Embellished with our all-new square HOTFIX embellishments for maximum sparkle, the Ronja mini dress is crafted from premium 40D stretch mesh and lined for the perfect amount of coverage. It’s framed with darted cups for enhanced shaping, a plunge V-neck, and adjustable camisole shoulder straps for your perfect fit.",
+        "price":142.00,
+        "image_url":"https://assets.ohpolly.com/image/upload/c_scale,w_1080/f_auto,q_auto/v1733850378/12405-DeepPurple_Ronja_5"
+      },
+      {
+        "id":5,
+        "name":"Felicity Embellished Halterneck Bubble Hem Mini Dress in Wine Red",
+        "description":"Ready for party season. Cut to a stunning bubble-hem silhouette, the Felicity mini dress is made from premium 20D stretch mesh that sculpts and shapes to your curves. It’s framed with a cupped sweetheart neckline and an adjustable satin halterneck tie for enhanced support where you want it most. It’s complete with all-over HOTFIX embellishments that sparkle under spotlights.",
+        "price":142.00,
+        "image_url":"https://assets.ohpolly.com/image/upload/c_scale,w_1080/f_auto,q_auto/12733-WineRed_Felicity_8"
+      }
+    ]
+  }
+  
+  

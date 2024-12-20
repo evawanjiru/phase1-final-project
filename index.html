@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Dressify</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Welcome to Dressify!</h1>
+    <div id="search-container">
+      <input type="text" id="search-input" placeholder="Search for products...">
+      <button id="search-button">Search</button>
+    </div>
+  </header>
+
+  <main>
+    <section id="products">
+      <h2>Available Products</h2>
+      <div id="product-container" class="product-grid">
+        <!-- Products will be dynamically loaded here -->
+      </div>
+    </section>
+
+    <section id="cart">
+      <h2>Your Cart</h2>
+      <div id="cart-container">
+        <p>Your cart is empty.</p>
+      </div>
+      <button id="clear-cart">Clear Cart</button>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2024 Simple eCommerce App</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>

@@ -1,0 +1,122 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+  }
+  
+  header {
+    background-color: #333;
+    color: #fff;
+    padding: 1rem;
+    text-align: center;
+  }
+  
+  #search-container {
+    margin: 1rem 0;
+    display: flex;
+    justify-content: center;
+  }
+  
+  #search-input {
+    width: 50%;
+    padding: 0.5rem;
+    border: 1px solid #ddd;
+    border-radius: 5px 0 0 5px;
+  }
+  
+  #search-button {
+    padding: 0.5rem 1rem;
+    border: none;
+    background-color: #007bff;
+    color: white;
+    border-radius: 0 5px 5px 0;
+    cursor: pointer;
+  }
+  
+  #search-button:hover {
+    background-color: #0056b3;
+  }
+  
+  main {
+    display: flex;
+    justify-content: space-between;
+    padding: 1rem;
+  }
+  
+  #products, #cart {
+    width: 48%;
+    background-color: #fff;
+    padding: 1rem;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  .product-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 1rem;
+  }
+  
+  .product-card {
+    background: #fff;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 1rem;
+    text-align: center;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  .product-card img {
+    max-width: 100%;
+    height: auto;
+    object-fit: contain;
+  }
+  
+  .product-description {
+    display: -webkit-box;
+    -webkit-line-clamp: 5; /* Limit to 5 lines */
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    max-height: 6.6em; /* Adjust based on line-height */
+    line-height: 1.3em; /* Match line-height with font size */
+  }
+  
+
+  button {
+    padding: 0.5rem 1rem;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .add-to-cart {
+    background-color: #28a745;
+    color: white;
+  }
+  
+  .add-to-cart:hover {
+    background-color: #218838;
+  }
+  
+  #clear-cart {
+    margin-top: 1rem;
+    padding: 0.5rem 1rem;
+    background-color: #dc3545;
+    color: white;
+  }
+  
+  #clear-cart:hover {
+    background-color: #c82333;
+  }
+  
+  footer {
+    text-align: center;
+    padding: 1rem;
+    background: #333;
+    color: #fff;
+    margin-top: 1rem;
+  }
+  
